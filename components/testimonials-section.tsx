@@ -27,6 +27,23 @@ export function TestimonialsSection() {
       rating: 5,
       image: "/placeholder.svg?height=100&width=100",
     },
+    {
+      name: "Aida",
+      text: "Здравствуйте!!! Макияж и прическа продержались на ура!!!! 1000 комплиментов! Спасибо большое Вам",
+      rating: 5,
+      image: "/placeholder.svg?height=100&width=100",
+    },
+    {
+      name: "Анна",
+      text: "Спасибо вам большое за макияж) продержался до утра!!! Очень понравился) еще раз спасибо",
+      rating: 5,
+      image: "/placeholder.svg?height=100&width=100",
+    },
+    { name: "Ольга",
+      text: "Макияж продержался супер) Тон - огонь) Можете подсказать название? Я срочно поменяю свой) Очень рада, что нашла человека с правильными ручками",
+      rating: 5,
+      image: "/placeholder.svg?height=100&width=100",
+    },
   ]
 
   return (
