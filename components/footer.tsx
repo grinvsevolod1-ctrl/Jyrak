@@ -23,7 +23,7 @@ export function Footer() {
               <span className="gradient-text">Olli Beauty</span>
             </h3>
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Профессиональный макияж и обучение в Санкт-Петербурге
+              Профессиональный макияж и обучение в Санкт-Петербурге и городе Борисов
             </p>
             {/* Social links */}
             <div className="flex gap-3 pt-2">
